@@ -1,4 +1,4 @@
-# 📊 Week 3: Data Cleaning & Preparation Project
+# 📊 Data Cleaning & Preparation Project
 
 ## 📌 Overview
 This project focuses on cleaning and preparing an employee dataset to ensure data quality and usability for analysis. The dataset contains HR-related information such as employee details, salaries, departments, and employment status.
